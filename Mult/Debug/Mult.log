@@ -1,0 +1,12 @@
+﻿  Person.cpp
+c:\users\asus\desktop\mult\mult\person.cpp(29): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\asus\desktop\mult\mult\person.cpp(32): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\asus\desktop\mult\mult\person.cpp(37): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\asus\desktop\mult\mult\person.cpp(40): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\asus\desktop\mult\mult\person.cpp(44): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\asus\desktop\mult\mult\person.cpp(47): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\asus\desktop\mult\mult\person.cpp(51): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\asus\desktop\mult\mult\person.cpp(54): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\asus\desktop\mult\mult\person.cpp(59): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\asus\desktop\mult\mult\person.cpp(65): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+  Mult.vcxproj -> C:\Users\Asus\Desktop\Mult\Debug\Mult.exe
